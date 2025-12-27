@@ -67,7 +67,6 @@ make demo
 - Postgres for persistence
 - Multi-language SDKs (Python, Go)
 - Async buffering with batch ingestion for high-throughput pipelines
-- Automatic context propagation across async boundaries ??
 
 - Search/filter by trace name, status, date range
 - WebSocket for live trace updates
